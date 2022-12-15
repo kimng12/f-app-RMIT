@@ -1,0 +1,27 @@
+﻿1. Everyone work:
+* A short paragraph about your future career plan (150-200 words). Deadline: 1/1/2023
+* A reflection paragraph (recommend 200 words or more). Deadline: 7/1/2023
+2. Prototype:
+* Finalized sketch will be uploaded asap.
+* Huy is now in-charge for making the prototype. You can check out the tutorial here: https://www.youtube.com/watch?v=PeGfX7W1mJk.  If you are using anything else, then make sure it is editable so that we can make adjustments.
+3. Website and GitHub:
+* Jimin will learn HTML and make the template for our website so that we can fill the content. Deadline for the website: 1/1/2023
+* I have created the GitHub repo for our group (https://github.com/minhphan-rmit/f-app-RMIT.git). For work like writing, you can work as a .txt file and upload it to the repo. For coding like HTML for the website, please upload the HTML file directly into.
+* Remember to create branches with descriptive names so that everyone can easily follow.
+4. Presentation:
+* Kim will be completely in-charge for this part. I will review the structure.
+* Deadline for presentation script is 1/1/2023
+* Deadline for slides is 8/1/2023
+* The practice presentation is on 9/1/2023
+5. Writing final report:
+* Have a look through the structure on Canvas, keep in mind that I might need help from you guys in writing because that is a massive workload.
+6. Friendly reminder about deadlines and work ethic:
+* Please respond if you receive any announcements not only from the leader but also from other people.
+* If you have a problem in your work, please tell the group so that we can help you.
+* Please stay on the deadlines because we don’t have much time for deadline extensions.
+
+
+If you have any problem in using GitHub please raise your problem in the group, we will try to use GitHub as much as possible because it is a required part in our final report.
+
+
+Thank you.
